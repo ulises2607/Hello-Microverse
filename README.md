@@ -54,8 +54,8 @@ HTML && CSS
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/ulises2607)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/cesar-ulises-cappa-subelza/)
+- GitHub: [Ulises Cappa](https://github.com/ulises2607)
+- LinkedIn: [Ulises Cappa](https://linkedin.com/in/cesar-ulises-cappa-subelza/)
 
 
 
